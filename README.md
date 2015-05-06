@@ -1,6 +1,6 @@
 # VdU
 
-"Virtuelles Deutsches Urkundennetzwerk (VdU)" is a DFG-funded project (2011-2013) intended to build up a Virtual Research Environment for medieval charters.
+_Virtuelles Deutsches Urkundennetzwerk (VdU)_ or _Virtual German Charter Network_ is a DFG-funded project (2011-2013) intended to build up a _Virtual Research Environment_ for the handling medieval charters.
 
 The Virtual Research Environment provides about 20.000 charters from 35 fonds from 12 German archives. High-resolution scans of the front and back sides of the original charters are added to the majority of records. The level of detail of metadata differenciate between the fonds.
 
