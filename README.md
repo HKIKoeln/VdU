@@ -1,4 +1,4 @@
-# VdU
+# Virtual German Charter Network (VdU)
 
 _Virtuelles Deutsches Urkundennetzwerk (VdU)_ is a DFG-funded project (2011-2013) to build up a _Virtual Research Environment_ for the handling medieval charters.
 
