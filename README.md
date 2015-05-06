@@ -2,7 +2,7 @@
 
 _Virtuelles Deutsches Urkundennetzwerk (VdU)_ is a DFG-funded project (2011-2013) to build up a _Virtual Research Environment_ for the handling medieval charters.
 
-About 20.000 charters from 12 German archives contained in 35 archival fonds were scanned during the project phase and enriched with metadata. HKI Cologne developed a 
+About 20.000 charters from 12 German archives contained in 35 archival fonds were scanned during the project phase and enriched with metadata. HKI Cologne developed a set of collaborative tools for the analysis and. 
 
 In addition, a collection of 138 different chartularies from different regions of Europe were made available in cooperation with Google. The chartualries have been digitized and OCR-scanned by Google. A.
 
