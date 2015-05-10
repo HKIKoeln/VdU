@@ -11,4 +11,4 @@ In addition, a collection of 138 different cartularies from different regions of
 
 As of November 30th 2013, both, the content created, as well as the software tools developed have been transfered completely into the larger project [Monasterium.net](http://www.monasterium.net/).
 
-All results and documentation of the VdU platform is available here: [https://github.com/HKIKoeln/MOM-CA](https://github.com/HKIKoeln/MOM-CA)
+All results and documentation of the VdU project is available here: [https://github.com/HKIKoeln/MOM-CA](https://github.com/HKIKoeln/MOM-CA)
